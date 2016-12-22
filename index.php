@@ -1,7 +1,7 @@
 <?php
     require_once __DIR__.'/_backend/preload.php';
 
-    $page['title'] = 'A fast and open replacement for Windows and macOS &sdot; elementary OS';
+    $page['title'] = 'A fast and open OS Built For The Community; elementary OS';
 
     $page['scripts'] = array(
         'scripts/slingshot.js',
